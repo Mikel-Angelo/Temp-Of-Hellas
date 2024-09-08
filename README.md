@@ -5,7 +5,7 @@
 - > Preparation dataframe
 
 - > Visualize a map with temp of countries
-  ![Map](https://github.com/user-attachments/assets/dcf0497b-6453-4181-8c0a-d90d166e9820)
+![Uploading Flashback - Sep 8, 2024 13_49_11.gif…]()
 
 - > Visualize a bar with temp of countries
   ![Screenshot 2024-09-07 185300](https://github.com/user-attachments/assets/64156575-5330-42b8-bf38-fec9204880a4)
