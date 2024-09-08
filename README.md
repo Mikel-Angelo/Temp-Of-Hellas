@@ -7,6 +7,7 @@
 - > Visualize a map with temp of countries
 ![Map](https://github.com/user-attachments/assets/16c2e198-7035-4199-b441-897edb8cea2b)
 
+
 - > Visualize a bar with temp of countries
   ![Screenshot 2024-09-07 185300](https://github.com/user-attachments/assets/64156575-5330-42b8-bf38-fec9204880a4)
 
