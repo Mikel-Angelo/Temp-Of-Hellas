@@ -3,7 +3,6 @@
 
 - > Extract the weather data (from API)
 - > Preparation dataframe
-  > 
 
 - > Visualize a map with temp of countries
 ![Map](https://github.com/user-attachments/assets/16c2e198-7035-4199-b441-897edb8cea2b)
