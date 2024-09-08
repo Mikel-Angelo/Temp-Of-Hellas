@@ -1,7 +1,7 @@
 # Temp-Of-Hellas
 **_This Project show temperature of Hellas in countries_**
 
-- > Extract the weather data
+- > Extract the weather data (from API)
 - > Preparation dataframe
 
 - > Visualize a map with temp of countries
